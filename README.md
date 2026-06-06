@@ -31,7 +31,7 @@ D3 Manajemen Informatika student at Universitas Gunadarma — building things wi
 
 | Project | Stack | Description |
 |---|---|---|
-| [Portofolio](https://github.com/fakhrialidev/portofolio) | HTML · CSS · JS | Personal portfolio website — responsive & interactive |
+| [Portfolio](https://github.com/fakhrialidev/portfolio) | HTML · CSS · JS | Personal portfolio website — responsive & interactive |
 
 ---
 
