@@ -31,7 +31,7 @@ D3 Manajemen Informatika student at Universitas Gunadarma — building things wi
 
 | Project | Stack | Description |
 |---|---|---|
-| [Website Pristine](https://github.com/fakhrialidev/website-pristine) | HTML · CSS · JS | Personal portfolio website — responsive & interactive |
+| [Portofolio](https://github.com/fakhrialidev/portofolio) | HTML · CSS · JS | Personal portfolio website — responsive & interactive |
 
 ---
 
